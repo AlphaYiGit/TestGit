@@ -12,3 +12,8 @@ SourceTreeMergeBugFix
 SourceTreeMaster123
 SourceTreeBugFixBF3BF3
 SourceTreeMergeBugFix3
+devdev
+devaaaaaa
+SourceTreeDevBBB
+SourceTreeDevCCC
+SourceTreeMergeDevC
