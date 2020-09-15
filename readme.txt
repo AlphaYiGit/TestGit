@@ -19,3 +19,4 @@ SourceTreeDevCCC
 SourceTreeMergeDevC
 SourceTreeDevDDD
 SourceTreeMergeDevD
+SourceTreeDevEEE
