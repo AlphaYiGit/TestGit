@@ -10,3 +10,5 @@ SourceTreeBugFixBFBF
 SourceTreeBugFixBF2BF2
 SourceTreeMergeBugFix
 SourceTreeMaster123
+SourceTreeBugFixBF3BF3
+SourceTreeMergeBugFix3
