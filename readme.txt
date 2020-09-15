@@ -9,3 +9,4 @@ bugfix
 SourceTreeMasterAAA
 SourceTreeBugFixBFBF
 SourceTreeBugFixBF2BF2
+SourceTreeBugFixBF3BF3
