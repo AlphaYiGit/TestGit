@@ -6,6 +6,6 @@
 777777
 999999
 bugfix
-SourceTreeMasterAAA
-SourceTreeMasterBBB
-SourceTreeMasterCCC
+SourceTreeBugFixBFBF
+SourceTreeBugFixBF2BF2
+SourceTreeMergeBugFix
